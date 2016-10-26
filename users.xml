@@ -20,7 +20,7 @@
 	<user3>
 		<name>cyper</name>
 		<pass>pretech</pass>
-		<lock>NONE<lock>
+		<lock>NONE</lock>
 		<validity>on</validity>
 		<time>Welcome Admin</time>
 	</user3>
