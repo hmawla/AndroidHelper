@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serials>
+	<user1>
+		<name>zolfekar</name>
+		<pass>admin</pass>
+		<validity>on</validity>
+		<lock>off</lock>
+		<serial>rf0001</serial>
+		<time>Your subscription is Valid until 25/12/2016</time>
+	</user1>
+	
+	<user2>
+		<name>pedromarthon</name>
+		<pass>admin</pass>
+		<lock>NONE</lock>
+		<validity>on</validity>
+		<time>Welcome Admin</time>
+	</user2>
+	
+	<user3>
+		<name>cyper</name>
+		<pass>pretech</pass>
+		<lock>NONE<lock>
+		<validity>on</validity>
+		<time>Welcome Admin</time>
+	</user3>
+	
+	<user4>
+		<name></name>
+		<pass></pass>
+		<lock><lock>
+		<validity>off</validity>
+		<time></time>
+	</user4>
+	<user5>
+		<name>end</name>
+	</user5>
+</serials>
