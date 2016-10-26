@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<serials>
-	<user1>
-		<name>zolfekar</name>
-		<pass>admin</pass>
-		<lock>off</lock>
-		<validity>on</validity>
-		<serial>rf0001</serial>
-		<time>Your subscription is Valid until 25/12/2016</time>
-	</user1>
+<SERIALS>
+	<USER1>
+		<NAME>zolfekar</NAME>
+		<PASS>admin</PASS>
+		<LOCK>off</LOCK>
+		<VALIDITY>on</VALIDITY>
+		<SERIAL>rf0001</SERIAL>
+		<TIME>Your subscription is Valid until 25/12/2016</TIME>
+	</USER1>
 	
-	<user2>
-		<name>pedromarthon</name>
-		<pass>admin</pass>
-		<lock>NONE</lock>
-		<validity>on</validity>
-		<time>Welcome Admin</time>
-	</user2>
+	<USER2>
+		<NAME>pedromarthon</NAME>
+		<PASS>admin</PASS>
+		<LOCK>NONE</LOCK>
+		<VALIDITY>on</VALIDITY>
+		<TIME>Welcome Admin</TIME>
+	</USER2>
 	
-	<user3>
-		<name>cyper</name>
-		<pass>pretech</pass>
-		<lock>NONE</lock>
-		<validity>on</validity>
-		<time>Welcome Admin</time>
-	</user3>
+	<USER3>
+		<NAME>cyper</NAME>
+		<PASS>pretech</PASS>
+		<LOCK>NONE</LOCK>
+		<VALIDITY>on</VALIDITY>
+		<TIME>Welcome Admin</TIME>
+	</USER3>
 	
-	<user4>
-		<name>user</name>
-		<pass>user</pass>
-		<lock>off</lock>
-		<validity>on</validity>
-		<serial>rf0002</serial>
-		<time></time>
-	</user4>
-	<user5>
-		<name>end</name>
-	</user5>
-</serials>
+	<USER4>
+		<NAME>user</NAME>
+		<PASS>user</PASS>
+		<LOCK>off</LOCK>
+		<VALIDITY>on</VALIDITY>
+		<SERIAL>rf0002</SERIAL>
+		<TIME></TIME>
+	</USER4>
+	<USER5>
+		<NAME>end</NAME>
+	</USER5>
+</SERIALS>
