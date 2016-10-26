@@ -3,8 +3,8 @@
 	<user1>
 		<name>zolfekar</name>
 		<pass>admin</pass>
-		<validity>on</validity>
 		<lock>off</lock>
+		<validity>on</validity>
 		<serial>rf0001</serial>
 		<time>Your subscription is Valid until 25/12/2016</time>
 	</user1>
@@ -26,10 +26,11 @@
 	</user3>
 	
 	<user4>
-		<name></name>
-		<pass></pass>
-		<lock><lock>
-		<validity>off</validity>
+		<name>user</name>
+		<pass>user</pass>
+		<lock>off<lock>
+		<validity>on</validity>
+		<serial>rf0002</serial>
 		<time></time>
 	</user4>
 	<user5>
