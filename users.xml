@@ -28,7 +28,7 @@
 	<user4>
 		<name>user</name>
 		<pass>user</pass>
-		<lock>off<lock>
+		<lock>off</lock>
 		<validity>on</validity>
 		<serial>rf0002</serial>
 		<time></time>
